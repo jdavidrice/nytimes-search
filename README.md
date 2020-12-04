@@ -4,7 +4,7 @@
 
 This simple web app will allow users to search for New York Times articles on a variety of topics. 
 
-[Link to published website]()
+[Link to published website](https://jdavidrice.github.io/nytimes-search/)
 
 ## Table of Contents
 
